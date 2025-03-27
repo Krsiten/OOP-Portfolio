@@ -5,8 +5,6 @@
 ### Group: Group E
 ### Tutor: Safdari Fash
 
-
-
 ## Work Schedule
 **1 Getting Started**\
 **committed by 5th February**\
@@ -71,19 +69,3 @@
 3 Validating Commands        -- completed\
 4 Loading and Saving          -- completed\
 5 Extending OOPGraphics library    -- completed
-
-## Notes
-Add your notes and top tips here.
-
-## The small print
-Enter your details above. Keep your portfolio up to date. You will also store your assignment here.
-When you have done an exercise change **-- to do** to **-- completed**.
-You can use this file to keep any notes that you may find useful in the phase test.
-
-For each of the exercises create a project in the relevant directory (see myBeckett if you do not know how to do this).
-By the end you will have a complete set of projects for the exercises and a project for the assignment in this repo.
-For each project you should create a Readme.md file and show the output of your project.
-This portfolio is marked and therefore needs to follow these instructions.
-
-By submitting this work you are confirming that the work in this repo is your own, with all credit given to any sources of help. Such sources might include software tools.
-You also confirm that you have read and understood the regulations relating to academic misconduct.
