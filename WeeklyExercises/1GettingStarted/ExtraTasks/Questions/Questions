@@ -1,0 +1,14 @@
+a. Java 21.0.2
+b. Java SE (Standard edition)
+       = Used for desktop applications
+       = "General purpose" version that is not specialised for any particular use as opposed to other versions of Java that contain special classes and other features
+             
+   Java ME (Micro Edition)
+       = Used for mobile device and embedded system applications
+       = Comes with additional class libraries useful for small devices
+      
+c. Windows. Linux, and MacOS
+
+d. IntelliJ IDEA
+
+e. The main function indicates the starting point for the java program to execute. Without it, the code wouldn't be able to run as it wouldn't know when to start.
